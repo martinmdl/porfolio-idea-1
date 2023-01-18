@@ -2,8 +2,7 @@
 
 ## 📃 Description
 
-[*Astral Print*](https://astralprint.herokuapp.com/) is a beta of a 3d printing online shop. This site is intended to be this brand sales website.
-This web app was developed as a final project of a three months course in UTN (Universidad Tecnológica Nacional).
+[*This Portfolio*](https://porfolio-idea-1-9tnfusf6d-martinmdl.vercel.app/) is just a practice I made in order to learn and try NextJS and TailWind, and improve my web designing in general.
 If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 👨‍💻 Authors
@@ -12,6 +11,6 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## ⚙ Features
 
-- MongoDB
-- Dotenv
-- Nodemailer
+- NextJS
+- Tailwind CSS
+- Dark Mode
