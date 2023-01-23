@@ -1,4 +1,4 @@
-# Portfolio Idea 1
+# Portfolio Idea
 
 ## 📃 Description
 
